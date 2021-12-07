@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:7
 # MAINTAINER Neil
 # DATE 12/06/2021
 # Descripiton: Curl installation
